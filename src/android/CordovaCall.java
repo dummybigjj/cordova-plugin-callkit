@@ -40,8 +40,8 @@ import com.pushwoosh.Pushwoosh;
 import com.pushwoosh.internal.utils.PWLog;
 
 import android.app.Activity;
-import android.support.annotation.NonNull;
-//import androidx.annotation.NonNull;
+//import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 import androidx.core.app.NotificationManagerCompat;
 
 import android.provider.Settings;
